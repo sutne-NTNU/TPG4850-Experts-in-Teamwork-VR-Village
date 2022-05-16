@@ -16,9 +16,9 @@ For further information, see [ntnu.edu/eit](www.ntnu.edu/eit) and [ntnu.edu/eit/
 An Augmented-Reality Application for Microsoft Hololens for assembling IKEA furniture. You can view the [demonstration video on YouTube](https://www.youtube.com/watch?v=e9pUjq5JiHY&t=6s).
 
 <p align="center">
-    <img src="images/assembly.png" width=70%/>
+    <img src="Images/assembly.png" width=70%/>
 </p>
 
 <p align="center">
-    <img src="images/hololens.jpeg" width=70%/>
+    <img src="Images/hololens.jpeg" width=70%/>
 </p>
